@@ -1,0 +1,181 @@
+
+Number of Samples: 57305
+
+............................................................
+Source - Destination               : Total Number
+............................................................
+169.254.149.247                    : 28145
+169.254.83.9                       : 28157
+239.255.255.250                    : 20
+255.255.255.255                    : 29
+Broadcast                          : 585
+CompalIn_a0:2a:f2                  : 21
+Raspberr_58:67:86                  : 21
+Spanning-tree-(for-bridges)_00     : 300
+ff02::1:2                          : 20
+ff02::fb                           : 7
+
+............................................................
+Protocols      : Total Number   : Mean of Lenght
+............................................................
+ARP            : 627            : 59.39712918660287
+DHCP           : 29             : 342.0
+DHCPv6         : 20             : 152.8
+MDNS           : 7              : 103.57142857142857
+Modbus/TCP     : 56299          : 67.89969626458729
+SSDP           : 20             : 217.0
+STP            : 300            : 64.0
+TCP            : 3              : 62.0
+
+............................................................
+Commands                      : Total Number
+............................................................
+Read Discrete Inputs          : 11258
+Read Holding Registers        : 11258
+Read Input Registers          : 11258
+Write Multiple Coils          : 11258
+Write Multiple Registers      : 11267
+is at b                       : 21
+
+............................................................
+                not rounded Transmissions
+
+Type of Transmission: Counts    : Trans Number
+............................................................
+Query               : 0         : 
+Response            : 0         : 
+Number of Samples: 57305
+
+............................................................
+Source - Destination               : Total Number
+............................................................
+169.254.149.247                    : 28145
+169.254.83.9                       : 28157
+239.255.255.250                    : 20
+255.255.255.255                    : 29
+Broadcast                          : 585
+CompalIn_a0:2a:f2                  : 21
+Raspberr_58:67:86                  : 21
+Spanning-tree-(for-bridges)_00     : 300
+ff02::1:2                          : 20
+ff02::fb                           : 7
+
+............................................................
+Protocols      : Total Number   : Mean of Lenght
+............................................................
+ARP            : 627            : 59.39712918660287
+DHCP           : 29             : 342.0
+DHCPv6         : 20             : 152.8
+MDNS           : 7              : 103.57142857142857
+Modbus/TCP     : 56299          : 67.89969626458729
+SSDP           : 20             : 217.0
+STP            : 300            : 64.0
+TCP            : 3              : 62.0
+
+............................................................
+Commands                      : Total Number
+............................................................
+Read Discrete Inputs          : 11258
+Read Holding Registers        : 11258
+Read Input Registers          : 11258
+Write Multiple Coils          : 11258
+Write Multiple Registers      : 11267
+is at b                       : 21
+
+............................................................
+                not rounded Transmissions
+
+Type of Transmission: Counts    : Trans Number
+............................................................
+Query               : 0         : 
+Response            : 0         : 
+Number of Samples: 57305
+
+............................................................
+Source - Destination               : Total Number
+............................................................
+169.254.149.247                    : 28145
+169.254.83.9                       : 28157
+239.255.255.250                    : 20
+255.255.255.255                    : 29
+Broadcast                          : 585
+CompalIn_a0:2a:f2                  : 21
+Raspberr_58:67:86                  : 21
+Spanning-tree-(for-bridges)_00     : 300
+ff02::1:2                          : 20
+ff02::fb                           : 7
+
+............................................................
+Protocols      : Total Number   : Mean of Lenght
+............................................................
+ARP            : 627            : 59.39712918660287
+DHCP           : 29             : 342.0
+DHCPv6         : 20             : 152.8
+MDNS           : 7              : 103.57142857142857
+Modbus/TCP     : 56299          : 67.89969626458729
+SSDP           : 20             : 217.0
+STP            : 300            : 64.0
+TCP            : 3              : 62.0
+
+............................................................
+Commands                      : Total Number
+............................................................
+Read Discrete Inputs          : 11258
+Read Holding Registers        : 11258
+Read Input Registers          : 11258
+Write Multiple Coils          : 11258
+Write Multiple Registers      : 11267
+is at b                       : 21
+
+............................................................
+                not rounded Transmissions
+
+Type of Transmission: Counts    : Trans Number
+............................................................
+Query               : 0         : 
+Response            : 0         : 
+Number of Samples: 57305
+
+............................................................
+Source - Destination               : Total Number
+............................................................
+169.254.149.247                    : 28145
+169.254.83.9                       : 28157
+239.255.255.250                    : 20
+255.255.255.255                    : 29
+Broadcast                          : 585
+CompalIn_a0:2a:f2                  : 21
+Raspberr_58:67:86                  : 21
+Spanning-tree-(for-bridges)_00     : 300
+ff02::1:2                          : 20
+ff02::fb                           : 7
+
+............................................................
+Protocols      : Total Number   : Mean of Lenght
+............................................................
+ARP            : 627            : 59.39712918660287
+DHCP           : 29             : 342.0
+DHCPv6         : 20             : 152.8
+MDNS           : 7              : 103.57142857142857
+Modbus/TCP     : 56299          : 67.89969626458729
+SSDP           : 20             : 217.0
+STP            : 300            : 64.0
+TCP            : 3              : 62.0
+
+............................................................
+Commands                      : Total Number
+............................................................
+Read Discrete Inputs          : 11258
+Read Holding Registers        : 11258
+Read Input Registers          : 11258
+Write Multiple Coils          : 11258
+Write Multiple Registers      : 11267
+is at b                       : 21
+
+............................................................
+                not rounded Transmissions
+
+Type of Transmission: Counts    : Trans Number
+............................................................
+Query               : 0         : 
+Response            : 0         : 

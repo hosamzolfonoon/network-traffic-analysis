@@ -155,9 +155,13 @@ in next code block, otherwise errors will be appeared
 
 ****Never Run 2sd part more than one time****
 
+**===============================================================================================**
 
+** **Caution** **
 
+Results of analyses are available either in notebook file or Results folder
 
+**===============================================================================================**
 
 **6	Results**
 
