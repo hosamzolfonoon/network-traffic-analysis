@@ -1,8 +1,5 @@
 ** **Docker Usage** **
 
-As a reader of this notebook, images would be shown correctly. Accordingly, in the following link discriptions and images are shared in a pdf file.
-
-https://drive.google.com/file/d/1SmndHWLj_Kq2FRSjc1d3KyJSFw94AGmS/view?usp=sharing
 
 **1-Pulling the Docker Image**
 
