@@ -155,3 +155,40 @@ in next code block, otherwise errors will be appeared
 
 ****Never Run 2sd part more than one time****
 
+
+
+
+
+**6	Results**
+
+To have better perception of captured traffic a summary has been extracted from raw data as shown in figure 5. Accordingly, histograms of different time latency which are discussed in the beginning of section four are drawn in figure 6.
+
+To have a better conception for distribution of different Modbus functions, all of calculated parameters are divided to detected Modbus functions which are extracted from the command column. Figures 7, 8 and 9 are extracted from preprocessed data based on what is discussed in section 4.
+
+To study the role of outliers in regarding followed scenarios to draw figures 6-9, histogram of three defined time latencies for all five experiments which are separated based on five Modbus functions that were used in the experiments are shown in figure 10.
+
+**7 Discussion and Conclusion**
+
+considering figure 5 or text report file it is clear the program could fin only five Modbus functions as commands which are:
+
+* Read Discrete Inputs
+* Read Holding Registers
+* Read Input Registers
+* Write Multiple Coils
+* Write Multiple Registers
+
+The five above mentioned commands form the main groups to study distribution of time for all three main considered scenarios:
+
+1. Basic time difference.
+2. Response-Response time difference.
+3. Query-Response time difference.
+
+In general figure 6 shows time latency for all scenarios without considering Modbus commands that is evidence that during all five experiments the majority of latencies are in domain real time concept (< 25ms or < 0.025s). To have a better analysis in figure 7-9 histogram, boxplot and mean scatter plot are drawn.
+
+Figure 7 shows the distribution of different Modbus commands which are detected by codes. According to the figure: i) values for command "Read Discrete Input" are always out of the range of real time, ii) "Write Multiple Coils" are always out of the minimum time to be considered as real time, iii) in general number of "Read Input Register" values are very small and out of the real time domain in all scenarios, iv) 'Read Holder Register" is always bigger than 25ms seconds and finally v) in scenarios 1 and 3 "Write Multiple Registers" are always in real time domain; however some of them in scenario 2 are not.
+
+Boxplots in figure 8, are completely aligned with the results of histogram in figure 7, i) values for command "Read Discrete Input" are in very long domain from 0-120ms and its median is around 30ms which is worse in scenario 2, however in 3rd scenario its distribution gets narrow with noncountable numbers of outliers, ii) "Write Multiple Coils" are full of outliers; however, in general it median is around 0, iii) "Read Input Register" also shows a lot of outliers in which they are out of the concept of real time and it is more or less the same for all scenarios, iv)"Read Holder Register" is the same as iii and consequently v) "Write Multiple Registers" follow concept as previous items.
+
+It seems that considering the meaning of values is the easiest way to conclude which commands have been done in real time during five experiments which are aligned with above mentioned discussion. As shown in figure in figure 9, only "Read Discrete Input" values are always out of the range of real time events; however, only in scenario 2, "Write Multiple Coils" is out of real time. In other situation the performance of Modbus commands are occurred in real time.
+
+Figure 10 presents the same histogram as the same figure 7 after deleting outliers. Even though some commands disappear from histogram or impossible to detect clearly, no considerable difference could be supposed for above mentioned discussion.
