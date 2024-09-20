@@ -5,13 +5,13 @@
 
 To get the Docker image from DockerHub, use the following command:
 
-*docker pull hosamzolfonoon/network-traffic-analysis:1.0*
+*docker pull hosamzolfonoon/plc:1.0*
 
 **2-Running Container Image**
 
 After pullin run it in interactive mode while exposing ip:
 
-*docker run -ip 8888:8888 -it network-traffic-analysis:1.0*
+*docker run -ip 8888:8888 -it plc:1.0*
 
 **3-Running the Associated Notebook**
 
